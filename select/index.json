@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Makeup",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T09:46:37.260476Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Weekend Without Makeup",
+      "artist": "The Long Blondes",
+      "has_synced": false,
+      "path": "select/01_Weekend_Without_Makeup_The_Long_Blondes.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heavy Makeup",
+      "artist": "TOBACCO",
+      "has_synced": false,
+      "path": "select/02_Heavy_Makeup_TOBACCO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Salvation Code (Makeup and Vanity Set Remix)",
+      "artist": "Scandroid",
+      "has_synced": false,
+      "path": "select/03_Salvation_Code_(Makeup_and_Vanity_Set_Remix)_Scandroid.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Magic's In The Makeup",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/04_Magic's_In_The_Makeup_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Makeup (Her Vice)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/05_No_Makeup_(Her_Vice)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Makeup (Her Vice) (feat. Colin Munroe)",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/06_No_Makeup_(Her_Vice)_(feat._Colin_Munroe)_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dark Black Makeup",
+      "artist": "Radkey",
+      "has_synced": true,
+      "path": "select/07_Dark_Black_Makeup_Radkey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dark Black Makeup",
+      "artist": "Radkey",
+      "has_synced": true,
+      "path": "select/08_Dark_Black_Makeup_Radkey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kiss and Makeup (All Bets Are Off)",
+      "artist": "Funeral for a Friend",
+      "has_synced": false,
+      "path": "select/09_Kiss_and_Makeup_(All_Bets_Are_Off)_Funeral_for_a_Friend.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kiss and Makeup",
+      "artist": "Funeral for a Friend",
+      "has_synced": true,
+      "path": "select/10_Kiss_and_Makeup_Funeral_for_a_Friend.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "magic´s in the makeup",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/11_magic_́s_in_the_makeup_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Breakup 2 Makeup",
+      "artist": "Ashanti",
+      "has_synced": true,
+      "path": "select/12_Breakup_2_Makeup_Ashanti.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Breakup 2 Makeup (Remix)",
+      "artist": "Ashanti feat. Black Child",
+      "has_synced": false,
+      "path": "select/13_Breakup_2_Makeup_(Remix)_Ashanti_feat._Black_Child.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Breakup 2 Makeup (Remix) (ft. Black Child)",
+      "artist": "Ashanti",
+      "has_synced": false,
+      "path": "select/14_Breakup_2_Makeup_(Remix)_(ft._Black_Child)_Ashanti.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Under The Makeup",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/15_Under_The_Makeup_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "No Makeup (Her Vice)",
+      "artist": "Kendrick Lamar feat. Colin Munroe",
+      "has_synced": true,
+      "path": "select/16_No_Makeup_(Her_Vice)_Kendrick_Lamar_feat._Colin_Munroe.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "makeup drawer",
+      "artist": "Isaac Dunbar",
+      "has_synced": true,
+      "path": "select/17_makeup_drawer_Isaac_Dunbar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Makeup",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_Makeup_ピーナッツくん.txt"
+    }
+  ]
+}
